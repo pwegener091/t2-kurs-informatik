@@ -1,5 +1,6 @@
-def hallo(name):
-    print("Hallo " + name)
+def hallo():
+    name = input("Wie ist dein Name? ")
+    print(f"Hallo {name}")
 
 
-hallo(5)
+hallo()

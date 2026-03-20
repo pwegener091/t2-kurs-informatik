@@ -1,0 +1,5 @@
+print("abc" * 3)
+print("abc" * 0)
+print("abc" * -3)
+print("abc" * -3 * -2)
+print("abc" * (-3 * -2))

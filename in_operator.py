@@ -1,0 +1,1 @@
+print("llo W" not in "Hallo Welt")
