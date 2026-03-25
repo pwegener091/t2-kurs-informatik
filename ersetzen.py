@@ -1,0 +1,5 @@
+text = input("Text eingeben: ")
+text = text.lower()
+text = text.replace("falsch", u"\u2717")
+text = text.replace("richtig", u"\u2713")
+print(text)
