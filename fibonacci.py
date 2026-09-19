@@ -5,5 +5,5 @@ def fibonacci(n):
         return 1
     return fibonacci(n-1)+fibonacci(n-2)
 
-print(fibonacci(50))
+print(fibonacci(35))
     
