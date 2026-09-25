@@ -11,6 +11,6 @@ def fibonacci(n):
         fib.update({n:f})
         return f
 
-print(fibonacci(50)/fibonacci(49))
+print(fibonacci(4))
 print(fib)
 print(zaehler)
